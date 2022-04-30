@@ -17,14 +17,14 @@ Pod::Spec.new do |spec|
 
   spec.name         = "TLib"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of TLib."
+  spec.summary      = "TLibtest."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "A long description of TLib. 这里要比spec.summary描述长"
+  spec.description  = "TLibtest这里要比spec.summary描述长."
 
   spec.homepage     = "https://github.com/Liam1319/TLib"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
